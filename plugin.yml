@@ -2,3 +2,9 @@ name: Blockys-KP
 version: 1.0
 author: D-WADE
 main: fr.dwade.blokcyskp.Main
+commands:
+  kit:
+    description: Ouverture du menu de choix de kit
+  setspawn:
+	description: Définir le spawn global du jeu
+	permission: setspawn.use
