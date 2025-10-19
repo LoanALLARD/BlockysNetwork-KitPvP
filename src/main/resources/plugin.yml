@@ -1,0 +1,11 @@
+name: Blockys-KP
+version: 1.0
+author: D-WADE
+main: com.BlockysKP.Main
+commands:
+  kit:
+    description: Ouverture du menu de choix de kit
+    permission: kit.use
+  setspawn:
+    description: Définir le spawn global du jeu
+    permission: setspawn.use

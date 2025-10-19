@@ -1,0 +1,9 @@
+com\BlockysKP\Commands\Kit.class
+com\BlockysKP\Main.class
+com\BlockysKP\Utils\EventUtils.class
+com\BlockysKP\Menu\KitMenu$1.class
+com\BlockysKP\Utils\SpawnUtils.class
+com\BlockysKP\Commands\SetSpawn.class
+com\BlockysKP\Listeners.class
+com\BlockysKP\Menu\KitMenu.class
+com\BlockysKP\CreateMap.class
