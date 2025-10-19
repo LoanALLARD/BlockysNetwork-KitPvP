@@ -100,9 +100,5 @@ Structure Maven minimale avec `maven-compiler-plugin` (release 8) et `spigot-api
 
 ## Auteurs
 
-- Auteur du plugin: D-WADE (plugin.yml)
+- Auteur du plugin: D-WADE
 - Repo: BlockysNetwork-KitPvP — LoanALLARD
-
-## Licence
-
-Ce projet n'inclut pas encore de licence explicite. Ajoutez un fichier `LICENSE` si vous souhaitez clarifier les conditions d'utilisation et de redistribution.
